@@ -1,0 +1,7 @@
+{
+  "jobs": [
+    {"title": "Designer", "id": 1, "details": "Lorem Job #1 doing the thing"},
+    {"title": "Developer", "id": 2, "details": "Lorem Job #2 doing stuff"},
+    {"title": "SCRUM Leader", "id": 3, "details": "Lorem Job #3 making sure other people do the stuff"}
+  ]
+}
